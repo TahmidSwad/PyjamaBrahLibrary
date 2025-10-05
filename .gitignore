@@ -7,6 +7,9 @@
 *.obj
 *.elf
 
+# other
+*.bmp
+
 # Linker output
 *.ilk
 *.map
