@@ -9,6 +9,8 @@
 
 # other
 *.bmp
+*.gdb_history
+*.bin
 
 # Linker output
 *.ilk
