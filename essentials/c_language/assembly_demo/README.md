@@ -1,3 +1,6 @@
+### About
+Minimal assembly code for demo.
+
 ### Enter the following commands in the terminal to run
 
 To compile: riscv64-unknown-elf-gcc -O0 -ggdb -nostdlib -march=rv32i -mabi=ilp32 -Wl,-Tm.ld m.s -o main.elf
