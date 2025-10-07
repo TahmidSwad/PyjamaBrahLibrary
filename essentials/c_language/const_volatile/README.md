@@ -1,7 +1,7 @@
 ### About
 C and assembly code to see how const and volatile variable works. 
 
-Note: Compilation optimization is set to 1
+Note: Compilation optimization is set to 1. Debug info is not being generated in make assembly.
 
 ### Makefile targets
 
