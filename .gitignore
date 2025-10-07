@@ -11,6 +11,7 @@
 *.bmp
 *.gdb_history
 *.bin
+c-asm.s
 
 # Linker output
 *.ilk
