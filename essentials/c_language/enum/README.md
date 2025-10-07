@@ -1,0 +1,2 @@
+### About
+Example of enum. 
