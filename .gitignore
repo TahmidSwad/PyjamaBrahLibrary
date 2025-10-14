@@ -47,6 +47,10 @@ c-asm.s
 *.su
 *.idb
 *.pdb
+*.debug
+*.elf.debug
+*.lst
+*.elf.lst
 
 # Kernel Module Compile Results
 *.mod*
