@@ -1,6 +1,6 @@
 ### About
 
-C code to inspect the size of different datatype. 
+Project 1 - Calculator app. 
 
 ### Compile and run
 

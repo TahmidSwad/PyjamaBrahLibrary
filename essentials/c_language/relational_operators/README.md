@@ -1,6 +1,6 @@
 ### About
 
-C code to inspect the size of different datatype. 
+Example code of relational operation. 
 
 ### Compile and run
 

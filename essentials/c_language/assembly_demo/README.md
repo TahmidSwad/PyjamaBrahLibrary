@@ -1,5 +1,6 @@
 ### About
-Minimal assembly code for demo.
+
+Minimal assembly demo code.
 
 ### Enter the following commands in the terminal to run
 

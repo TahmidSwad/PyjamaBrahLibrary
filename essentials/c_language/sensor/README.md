@@ -1,6 +1,6 @@
 ### About
 
-C code to inspect the size of different datatype. 
+Project 3 - Sensor management. 
 
 ### Compile and run
 

@@ -1,5 +1,6 @@
 ### About
-C and assembly code to see how variables of different datatype is pushed to the stack, and also their size. Execute "make assembly" to generate the assembly listing and analyze how the compiler allocates stack space for each variable.
+
+C and assembly code to see how arithmetic operations are executed. Execute "make assembly" to generate the assembly listing and analyze arithmetic operation.
 
 Note: Debug info is not being generated in make assembly.
 

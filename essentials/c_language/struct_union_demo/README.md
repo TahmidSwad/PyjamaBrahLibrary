@@ -1,6 +1,6 @@
 ### About
 
-C code to inspect the size of different datatype. 
+Demo code for struct and union. 
 
 ### Compile and run
 

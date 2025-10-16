@@ -1,6 +1,6 @@
 ### About
 
-C code to inspect the size of different datatype. 
+Example code of arithmetic operation. 
 
 ### Compile and run
 

@@ -1,6 +1,6 @@
 ### About
 
-C code to inspect the size of different datatype. 
+A simple c code to get started. 
 
 ### Compile and run
 

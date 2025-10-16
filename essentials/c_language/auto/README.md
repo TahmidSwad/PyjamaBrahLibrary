@@ -1,6 +1,6 @@
 ### About
 
-C code to inspect the size of different datatype. 
+An example of auto variable.
 
 ### Compile and run
 

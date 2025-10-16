@@ -1,6 +1,6 @@
 ### About
 
-C code to inspect the size of different datatype. 
+Project 2 - Digital audio. 
 
 ### Compile and run
 
